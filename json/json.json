@@ -1,9 +1,8 @@
 {
-    "name": "ebi",
-    "year": 2022,
-    "color": [
-        "red",
-        "blue",
-        "yellow"
+    "fig": [
+        "DSC00143.jpg"
+    ],
+    "pdf": [
+        "vim7.4_user_manual.pdf"
     ]
 }
